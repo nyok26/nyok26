@@ -10,7 +10,7 @@
 <!-- ![gif coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno4amt3ZjZ6NHZld28zczhxa2RsaTF0djZxeG0xanQ0YTc5cXVyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif) -->
 
 ## 💫 About Me:
-🔭 I’m currently internship in PT 
+🔭 I’m currently internship in PT Neuronworks 
 
 🌱 I’m currently learning NEXTJS & NESTJS
 
