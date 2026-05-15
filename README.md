@@ -10,11 +10,9 @@
 <!-- ![gif coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcno4amt3ZjZ6NHZld28zczhxa2RsaTF0djZxeG0xanQ0YTc5cXVyNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S9d8XB557e8phGLBVS/giphy.gif) -->
 
 ## 💫 About Me:
-🔭 I’m currently internship at PT Neuronworks Indonesia
+🎓 Final-year D3 student in Computer Engineering and Informatics, focusing on applied AI and software development.
 
-🌱 Currently I am working on a react js project with webpack for a micro-ui architecture
-
-👨‍💻 My Android Portfolio are available on <a href="https://lunasin.polban.studio/" target="_blank">@lunasin</a>
+🌱 Developing a final project on NLP-based semantic similarity using a hybrid rule-based approach for CV screening.
 
 
 ## 💻 Tech Stack:
